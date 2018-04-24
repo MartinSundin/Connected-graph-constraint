@@ -39,7 +39,7 @@ In the problem sigma_1(..) denotes the largest singular value of a matrix, **1**
 
 ___
 
-One difficulty is that for large values of eta, the graph often becomes disconnected. One example shown in the paper is the following.
+One difficulty is that for large values of eta, the graph often becomes disconnected. One example of a disconnected graph that is discussed in the paper is the following.
 
 ___
 ### Theorem
